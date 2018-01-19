@@ -1,0 +1,12 @@
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\bin\Debug\Crypto Prices.exe.config
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\bin\Debug\Crypto Prices.exe
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\bin\Debug\Crypto Prices.pdb
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\bin\Debug\Newtonsoft.Json.dll
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\bin\Debug\Vse.Web.Serialization.dll
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\bin\Debug\Newtonsoft.Json.xml
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\bin\Debug\Vse.Web.Serialization.pdb
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\obj\Debug\Crypto_Prices.Form1.resources
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\obj\Debug\Crypto_Prices.Properties.Resources.resources
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\obj\Debug\Crypto Prices.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\obj\Debug\Crypto Prices.exe
+E:\VisualStudioProjects\Crypto Prices\Crypto Prices\obj\Debug\Crypto Prices.pdb
